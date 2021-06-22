@@ -4,13 +4,13 @@
 "Ver_Major" : 0,
 "Ver_Minor" : 2,
 "Ver_Patch" : 5
-}
+},
 "RequiedVersion" : {
 "Name" : "0.0.0",
 "Ver_Major" : 0,
 "Ver_Minor" : 0,
 "Ver_Patch" : 0
-}
+},
 "NoticeFile" : "notice.txt",
 "RequiedFile" : "Requied.txt"
 }
