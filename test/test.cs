@@ -13,6 +13,8 @@ public partial class MainForm : Form
                 IsRunningThread = new bool[100];
                 nt = new GetFile();
                 AllThreadReady();
+            }catch(Exception ex){
+                Console.WriteLine(ex);
             }
         }    
         void ThreadRun00() { ThreadRun(0); }
